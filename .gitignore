@@ -1,0 +1,25 @@
+# Medical imaging files - do not upload patient data
+*.dcm
+*.nii
+*.nii.gz
+*.nrrd
+*.mhd
+*.raw
+
+# MATLAB files
+*.asv
+*.mat
+
+# Excel temporary files
+~$*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive folders
+dicom/
+raw_data/
+patient_data/
+original_ct/
+output_resultats/
