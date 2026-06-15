@@ -34,11 +34,11 @@ The main steps of the project are:
    - Lung volume
    - Chest Wall Thickness
 
-<img src="docs/assets/1.jpeg" width="300">
+     <img src="docs/assets/1.jpeg" width="300">
   
    - Anteroposterior diameter
 
-<img src="docs/assets/2.jpeg" width="300">
+     <img src="docs/assets/2.jpeg" width="300">
 
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
@@ -72,7 +72,7 @@ The final selected representative phantoms are:
 | Female | F8 |
 | Child | E3 |
 
-<img src="docs/assets/3.jpeg" width="300">  <img src="docs/assets/4.jpeg" width="312">
+   <img src="docs/assets/3.jpeg" width="300">  <img src="docs/assets/4.jpeg" width="312">
 
 ## Privacy Statement
 
