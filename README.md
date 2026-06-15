@@ -38,6 +38,7 @@ The main steps of the project are:
    - Anteroposterior diameter
 
 <img src="docs/assets/2.jpeg" width="300">
+
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
 
