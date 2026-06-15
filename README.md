@@ -37,7 +37,7 @@ The main steps of the project are:
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
 
-<img src="docs/assets/1.jpeg" width="700">   <img src="docs/assets/2.jpeg" width="700">
+<img src="docs/assets/1.jpeg" width="300">   <img src="docs/assets/2.jpeg" width="700">
 ## Segmented Structures
 
 For male and child phantoms:
