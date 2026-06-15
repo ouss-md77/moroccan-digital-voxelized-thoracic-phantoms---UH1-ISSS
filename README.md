@@ -71,7 +71,9 @@ The final selected representative phantoms are:
 | Male | H5 |
 | Female | F8 |
 | Child | E3 |
-![CWT measurement example](docs/assets/3.png) ![CWT measurement example](docs/assets/4.png)
+
+<img src="docs/assets/3.jpeg" width="300"> & <img src="docs/assets/4.jpeg" width="300">
+
 ## Privacy Statement
 
 Original CT images and patient data are not included in this repository due to medical confidentiality and patient privacy.
