@@ -36,7 +36,7 @@ The main steps of the project are:
    - Anteroposterior diameter
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
-
+![CWT measurement example](docs/assets/1.png) ![CWT measurement example](docs/assets/2.png)
 ## Segmented Structures
 
 For male and child phantoms:
@@ -65,7 +65,7 @@ The final selected representative phantoms are:
 | Male | H5 |
 | Female | F8 |
 | Child | E3 |
-
+![CWT measurement example](docs/assets/3.png) ![CWT measurement example](docs/assets/4.png)
 ## Privacy Statement
 
 Original CT images and patient data are not included in this repository due to medical confidentiality and patient privacy.
