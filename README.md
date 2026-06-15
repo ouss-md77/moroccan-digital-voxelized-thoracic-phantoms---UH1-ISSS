@@ -36,7 +36,7 @@ The main steps of the project are:
    - Anteroposterior diameter
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
-![CWT measurement example](docs/assets/1.png) ![CWT measurement example](docs/assets/2.png)
+![CWT measurement example](moroccan-digital-voxelized-thoracic-phantoms---UH1-ISSS/docs/assets/1.jpeg) ![CWT measurement example](moroccan-digital-voxelized-thoracic-phantoms---UH1-ISSS/docs/assets/1.jpeg)
 ## Segmented Structures
 
 For male and child phantoms:
