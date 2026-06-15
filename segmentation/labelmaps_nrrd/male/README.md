@@ -2,6 +2,11 @@
 
 This folder contains anonymized voxelized thoracic labelmaps for the Moroccan adult male group.
 
+File:
+
+`male_labelmaps_nrrd.zip`
+
+Original CT and DICOM files are not included.
 ## Files
 
 The labelmaps are named using anonymized patient codes:
