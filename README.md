@@ -72,7 +72,7 @@ The final selected representative phantoms are:
 | Female | F8 |
 | Child | E3 |
 
-<img src="docs/assets/3.jpeg" width="300">  <img src="docs/assets/4.jpeg" width="320">
+<img src="docs/assets/3.jpeg" width="300">  <img src="docs/assets/4.jpeg" width="312">
 
 ## Privacy Statement
 
