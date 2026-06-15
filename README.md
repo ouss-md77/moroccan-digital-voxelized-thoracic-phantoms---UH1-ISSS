@@ -35,6 +35,7 @@ The main steps of the project are:
    - Chest Wall Thickness
 
 <img src="docs/assets/1.jpeg" width="300">
+  
    - Anteroposterior diameter
 
 <img src="docs/assets/2.jpeg" width="300">
