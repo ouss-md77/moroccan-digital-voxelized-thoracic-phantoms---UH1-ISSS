@@ -33,9 +33,11 @@ The main steps of the project are:
 5. Calculation of morphometric parameters:
    - Lung volume
    - Chest Wall Thickness
-     <img src="docs/assets/1.jpeg" width="300">
+
+<img src="docs/assets/1.jpeg" width="300">
    - Anteroposterior diameter
-     <img src="docs/assets/2.jpeg" width="300">
+
+<img src="docs/assets/2.jpeg" width="300">
 6. Comparison of segmentation methods
 7. Multicriteria selection of representative phantoms
 
